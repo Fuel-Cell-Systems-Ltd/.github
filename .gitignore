@@ -1,0 +1,55 @@
+# Visual Studio
+.vs/
+*.vcxproj.user
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+out/
+bin/
+obj/
+[Bb]uild*/ 
+[Cc]MakeCache.txt
+CMakeFiles/
+
+# Logs / Temp
+*.log
+*.tlog
+*.tmp
+*.temp
+*.pid
+*.db
+*.db-wal
+*.db-shm
+
+# OS specific
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Packages
+*.nupkg
+packages/
+*.pyc
+__pycache__/
+node_modules/
+
+# Archives
+*.zip
+*.tar
+*.tar.gz
+*.7z
+
+# IDE settings (keep repo clean)
+.idea/
+*.iml
+
+# Generated docs
+docs/_build/
